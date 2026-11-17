@@ -1,0 +1,39 @@
+{
+  "width": 800,
+  "scale": 2,
+  "tiles": [
+    {
+      "title": "OC payouts",
+      "text": "85% payout. The house keeps 15."
+    },
+    {
+      "title": "Wars",
+      "text": "We'll fight it out or term."
+    },
+    {
+      "title": "Management",
+      "text": "Three idiots winging it."
+    },
+    {
+      "title": "Thick skin",
+      "text": "We roast everyone. Equally. Daily."
+    }
+  ],
+  "show_upgrades": true,
+  "hide_branches": [
+    "Core"
+  ],
+  "max_levels": {
+    "Medical cooldown": 12,
+    "Hospital time": 25,
+    "Booster cooldown": 24,
+    "Side effects": 10,
+    "Addiction": 25
+  },
+  "labels": {
+    "title": "Bar Specials",
+    "tiles": "On tap",
+    "upgrades": "Top shelf",
+    "members": "Drunkards"
+  }
+}
